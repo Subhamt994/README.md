@@ -1,8 +1,9 @@
 # README.md
 - # Hi 👋, I'm Subham Tiwari
+  
 
-- 🌱 I’m currently learning *Full Stack Development, Machine Learning*
-- 📫 Reach me at: [subham.work@gmail.com](mailto:subham.work@gmail.com)
+- 🌱 I’m currently learning *Full Stack Development(MERN), Machine Learning*
+- 📫 Reach me at: [subhamtiwary500@gmail.com](mailto:subham.work@gmail.com)
 - 📝 Check my resume: [My Resume](http://bit.ly/subham-resume)
 
 ## 🌐 Connect with me:
